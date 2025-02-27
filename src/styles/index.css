@@ -9,3 +9,54 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.boxCont{
+    padding-top: 400px;
+    padding-left: 120px;
+}
+
+.red-light{
+    background-color: red;
+    border-radius: 50%;
+    width: 175px;
+    height: 175px;
+}
+
+.yellow-light{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 175px;
+    height: 175px;
+}
+
+.green-light{
+    background-color: green;
+    border-radius: 50%;
+    width: 175px;
+    height: 175px;
+}
+
+.container{
+    height: 50vh;
+    width: 10.7vw;
+    color: yellow;
+}
+
+.boxCont{
+    height: 100vh;
+    background-image: url(https://a1.elespanol.com/metropoliabierta/2022/11/07/vivir-en-barcelona/716688327_9168682_1706x960.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.light{
+    width: 175px;
+    height: 175px;
+    box-shadow: 0px 0px 10px 10px rgba(182, 187, 43, 0.2);; 
+}
+
+.lightBox{
+    width:200px;
+    height: 200px;
+    border-radius: 5%;
+}
